@@ -5,14 +5,14 @@ This repository contains a curated collection of powerful and insightful books t
 
 # 📖 Book List
 
-- **ATI 12-05-2021**  
-- **Atomic Habits** *(PDFDrive)*  
-- **Autobiography of a Yogi**  
-- **Man’s Search for Meaning** *(PDFDrive.com)*  
+- **7 Habits of Hightly Successful People** - Stephen Covey
+- **Atomic Habits**  - James Clear
+- **Autobiography of a Yogi**  - Shri Paramhansa Yogananda
+- **Man’s Search for Meaning**  - Dr. Victor Frankl
 - **Mindset: The New Psychology of Success** – Carol Dweck  
 - **Think and Grow Rich** – Napoleon Hill  
 - **Rich Dad Poor Dad** – Robert T. Kiyosaki  
-- **Steve Jobs** *(PDFDrive)*  
+- **Steve Jobs** - Waltor Isaacson
 - **The 48 Laws of Power** – Robert Greene  
 - **The Psychology of Money** – Morgan Housel  
 

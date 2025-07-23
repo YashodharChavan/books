@@ -5,7 +5,7 @@ This repository contains a curated collection of powerful and insightful books t
 
 # 📖 Book List
 
-- **7 Habits of Hightly Successful People** - Stephen Covey
+- **7 Habits of Hightly Effective People** - Stephen Covey
 - **Atomic Habits**  - James Clear
 - **Autobiography of a Yogi**  - Shri Paramhansa Yogananda
 - **Man’s Search for Meaning**  - Dr. Victor Frankl
